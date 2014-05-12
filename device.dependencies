@@ -6,10 +6,10 @@
         "revision": "android-4.4"
     },
     {
-        "remote": "github",
-        "repository": "android-legacy/Dorimanx-SG2-I9100-Kernel",
+        "remote": "omnirom",
+        "repository": "android_kernel_samsung_smdk4412",
         "target_path": "kernel/samsung/smdk4412",
-        "revision": "master-maliv3"
+        "revision": "android-4.4"
     },
     {
         "remote": "github",
