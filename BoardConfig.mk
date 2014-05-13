@@ -36,3 +36,6 @@ DEVICE_RESOLUTION := 480x800
 
 # Use the non-open-source parts, if they're present
 -include vendor/samsung/i9100/BoardConfigVendor.mk
+
+# ClamAV "ramdisk-recovery.img: Andr.Exploit.Ratc FOUND"
+TW_EXCLUDE_SUPERSU      := true
