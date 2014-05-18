@@ -9,7 +9,7 @@
         "remote": "github",
         "repository": "erikcas/android_kernel_exynos",
         "target_path": "kernel/samsung/smdk4412",
-        "revision": "exybase"
+        "revision": "devupdate"
     },
     {
         "remote": "github",
