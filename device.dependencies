@@ -7,9 +7,9 @@
     },
     {
         "remote": "github",
-        "repository": "erikcas/android_kernel_exynos",
+        "repository": "android_kernel_exynos",
         "target_path": "kernel/samsung/smdk4412",
-        "revision": "devupdate"
+        "revision": "android-4.4"
     },
     {
         "remote": "github",
