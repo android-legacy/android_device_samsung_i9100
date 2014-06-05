@@ -52,8 +52,6 @@ PRODUCT_COPY_FILES += \
 
 # Rootdir
 PRODUCT_COPY_FILES := \
-    $(LOCAL_PATH)/rootdir/lpm.rc:root/lpm.rc \
-    $(LOCAL_PATH)/rootdir/init.smdk4210.usb.rc:root/init.smdk4210.usb.rc \
     $(LOCAL_PATH)/rootdir/ueventd.smdk4210.rc:root/ueventd.smdk4210.rc
 
 $(call inherit-product-if-exists, vendor/samsung/i9100/i9100-vendor.mk)

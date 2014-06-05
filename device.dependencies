@@ -7,9 +7,9 @@
     },
     {
         "remote": "github",
-        "repository": "android_kernel_exynos",
+        "repository": "Dorimanx-SG2-I9100-Kernel",
         "target_path": "kernel/samsung/smdk4412",
-        "revision": "android-4.4"
+        "revision": "inline"
     },
     {
         "remote": "github",
